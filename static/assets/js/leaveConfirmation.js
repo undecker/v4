@@ -1,2 +1,3 @@
-window.onbeforeunload = function(e) {  return "Do you want to exit this page?";};
-console.log("leaveConfirmation.js activated.");
+/*
+i forgot how to delete github fils so yes message
+/*
